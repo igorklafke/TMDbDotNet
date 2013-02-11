@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMDbDotNet.TmdbApi", "TMDbDotNet\TMDbDotNet.TmdbApi.csproj", "{51B55AFC-9481-45C4-88F1-EF71067C9F6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMDbDotNet.Test", "TMDbTest\TMDbDotNet.Test.csproj", "{307710DE-089B-4887-A920-28FAF4817ABB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMDbDotNet.SampleApp", "TMDbSampleApp\TMDbDotNet.SampleApp.csproj", "{652FAD5E-76DB-4388-88E6-4CA271981BA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51B55AFC-9481-45C4-88F1-EF71067C9F6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51B55AFC-9481-45C4-88F1-EF71067C9F6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51B55AFC-9481-45C4-88F1-EF71067C9F6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51B55AFC-9481-45C4-88F1-EF71067C9F6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{307710DE-089B-4887-A920-28FAF4817ABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{307710DE-089B-4887-A920-28FAF4817ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{307710DE-089B-4887-A920-28FAF4817ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{307710DE-089B-4887-A920-28FAF4817ABB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{652FAD5E-76DB-4388-88E6-4CA271981BA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{652FAD5E-76DB-4388-88E6-4CA271981BA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{652FAD5E-76DB-4388-88E6-4CA271981BA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{652FAD5E-76DB-4388-88E6-4CA271981BA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
